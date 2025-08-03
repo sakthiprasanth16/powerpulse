@@ -1,4 +1,8 @@
+Household Energy Usage Forecast
+
+
 Domain: Energy & Utilities
+
 Tools Used: Python · Scikit-learn · XGBoost · Matplotlib · Seaborn · Pandas · NumPy
 
 Problem Statement
