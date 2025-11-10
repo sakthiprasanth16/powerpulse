@@ -25,8 +25,7 @@ This project includes **data preprocessing**, **model training & optimization**,
 ## Project Overview
 
 This project predicts `Global_active_power` using a variety of electrical features such as voltage, reactive power, and sub-metering data.
-Trained with 6 Regressor Algorithm and got the best algorithm for this dataset.
-It uses a **Random Forest Regressor** trained on preprocessed data, with scaling and feature engineering.
+It uses a 6 Regression Algorithm trained on preprocessed data, with scaling and feature engineering.
 
 ---
 
