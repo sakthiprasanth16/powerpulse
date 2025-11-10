@@ -30,7 +30,7 @@ It uses a **Random Forest Regressor** trained on preprocessed data, with scaling
 
 ---
 
-## 🧩 Key Components
+##Key Components
 
 1. **Data Preprocessing (`preprocessing.ipynb`)**
    - Handles missing values
