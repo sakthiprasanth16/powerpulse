@@ -2,7 +2,7 @@ Household Energy Usage Forecast
 
 ---
 Live demo (Hugging Face Space):  
-👉 https://huggingface.co/spaces/prasanthr0416/Swiggy_Restaurant_Recommendation_System
+👉 https://huggingface.co/spaces/prasanthr0416/Household_Power_Usage_Forecast
 
 ---
 Domain: Energy & Utilities
