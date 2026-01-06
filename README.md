@@ -1,6 +1,10 @@
 Household Energy Usage Forecast
 
+---
+Live demo (Hugging Face Space):  
+👉 https://huggingface.co/spaces/prasanthr0416/Swiggy_Restaurant_Recommendation_System
 
+---
 Domain: Energy & Utilities
 
 Tools Used: Python · Scikit-learn · lightgbm · Matplotlib · Seaborn · Pandas · NumPy
